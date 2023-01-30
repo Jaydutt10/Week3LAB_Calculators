@@ -16,10 +16,10 @@
         <form method="post" action="hello">
             First : <input type="text" name="first" value="${first}"><br>
             Second: <input type="text" name="second" value="${second}"><br>
-            <input type="button" onclick="alert('Hello World!')" value="+">
-            <input type="button" onclick="alert('Hello World!')" value="-">
-            <input type="button" onclick="alert('Hello World!')" value="*">
-            <input type="button" onclick="alert('Hello World!')" value="%">
+            <input type="button"  value="+">
+            <input type="button"  value="-">
+            <input type="button"  value="*">
+            <input type="button"  value="%">
             <input type="submit" value="Submit">
         </form>
             
